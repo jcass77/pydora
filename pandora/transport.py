@@ -9,6 +9,7 @@ exception.
 
 API consumers should use one of the API clients in the pandora.client package.
 """
+import logging
 import random
 import time
 import json
